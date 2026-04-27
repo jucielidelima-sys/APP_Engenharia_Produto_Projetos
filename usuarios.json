@@ -1,0 +1,20 @@
+{
+    "admin": {
+        "nome": "Administrador",
+        "senha_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "perfil": "admin",
+        "ativo": true,
+        "projetos": [
+            "Todos"
+        ]
+    },
+    "user": {
+        "nome": "Usuário Padrão",
+        "senha_hash": "e606e38b0d8c19b24cf0ee3808183162ea7cd63ff7912dbb22b5e803286b4446",
+        "perfil": "visual",
+        "ativo": true,
+        "projetos": [
+            "Todos"
+        ]
+    }
+}
